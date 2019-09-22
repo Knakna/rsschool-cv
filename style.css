@@ -1,0 +1,35 @@
+body {
+    max-width: 1024px;
+   
+    text-align: center;
+   
+}
+ h1 {
+    text-align: center;
+ }   
+    div {
+        float: center;
+        margin: 10px 10px;
+        padding: 10px; 10px;
+                       
+      }
+p {
+    text-align: justify;
+    
+}
+
+img {
+    float: left;
+    margin: 10px 10px;
+        padding: 10px; 60px;
+    width: 100px;
+    
+  }
+.contacts {
+    text-align: left;
+}
+
+ul {
+  margin: 0px 150px;  
+  text-align: left;
+}
